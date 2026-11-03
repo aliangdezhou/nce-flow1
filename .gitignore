@@ -1,0 +1,10 @@
+# ---- Pages 不需要的运维/构建文件 ----
+Dockerfile
+docker-compose.yml
+.dockerignore
+.github/
+*.py
+build-and-push.sh
+CNAME
+LICENSE
+# 保留 README.md / *.html / assets / static / images / icons / NCE1-4 / manifest.json / sw.js / favicon.ico
